@@ -1,0 +1,32 @@
+.divmain {
+  border: 0.1rem solid black;
+  margin-left: 30vw;
+  height: auto;
+  margin-right: 2vw;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+}
+
+.table > thead {
+  color: white;
+  background-color: rgba(44, 199, 145, 255);
+  height: 12vh;
+  font-size: 1.3rem;
+}
+
+tr {
+  height: 10vh;
+  font-size: 1.2rem;
+}
+
+.stdlist {
+  border: 0.1rem solid black;
+}
+
+.mainscreen {
+  height: 100%;
+}
+
+html {
+  overflow-y: scroll;
+}
